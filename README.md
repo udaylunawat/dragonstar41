@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align='center'>
-  AI | Blockchain | FullStack Engineer 
+  AI | Blockchain | Full Stack Engineer 
 </h4>
 
 <!-- <p align="center">
@@ -16,7 +16,7 @@
 
 ## 👩  About me:
 <p>
-I am working as a <b>Web</b> & <b>Mobile developer</b> for 7 years with <b>Blockchain, AI</b> and have developed many projects according to clients' needs.<br>
+I am working as a <b>Web</b> & <b>Mobile developer</b> for 10+ years with <b>Blockchain, AI</b> and have developed many projects according to clients' needs.<br>
 I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
 I am an <b>ambitious man</b> with rich experience.<br>
 Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
