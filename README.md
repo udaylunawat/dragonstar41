@@ -6,6 +6,10 @@
   AI | Blockchain | Full Stack Engineer 
 </h4>
 
+<div align="center">
+  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="center" style="width: 70%" />
+</div>
+
 <!-- <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     </a>
@@ -25,6 +29,24 @@ As an expert problem solver, responsive to client needs, and detail-oriented, I 
 I can contribute to your project as an individual <b>full-stack developer</b>. And if you want to work with our agency, I can lead teammates.<br>
 Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
 </p>
+
+### Connect with me:
+
+<a href="https://join.skype.com/invite/x2xBoIyOECfR" target="_blank">
+  <img src="https://img.icons8.com/color/2x/skype.png" width="40">
+</a>
+<a href="https://app.slack.com/client/T6AJU1JM9/C0468LCEPK4" target="_blank">
+  <img src="https://img.icons8.com/color/2x/slack-new.png" width="40">
+</a>
+<a href="https://t.me/+oAgYw9sYJShmMjQx" target="_blank">
+  <img src="https://img.icons8.com/3d-fluency/2x/telegram.png" width="40">
+</a>
+<a href="https://discord.com/invite/ySgHj2DRzT" target="_blank">
+  <img src="https://img.icons8.com/bubbles/2x/discord-logo.png" width="40">
+</a>
+<a href="mailto:upworkstar@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/bubbles/2x/gmail.png" width="40">
+</a>
 
 ## My Skill Set
 
