@@ -7,7 +7,7 @@
 </h4>
 
 <div align="center">
-  <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" align="center" style="width: 70%" />
+  <img src="person.jfif" align="center" style="width: 70%" />
 </div>
 
 <!-- <p align="center">
